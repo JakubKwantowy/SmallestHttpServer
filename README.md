@@ -20,5 +20,5 @@ make
 ```
 
 Run with:
-`./bin/server`
+`./bin/server`  
 Navigate to `http://localhost:8080` in browser
